@@ -21,4 +21,4 @@ python run_model.py
 ```
 
 ## Evaluation
-Model evaluation can be performed through running `POS tagging evaluation` notebook in notebook folder.
+Model evaluation can be performed through running `POS tagging evaluation.ipynb` notebook in notebook folder.
